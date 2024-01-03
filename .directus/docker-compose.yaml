@@ -42,8 +42,8 @@ services:
       CACHE_STORE: 'redis'
       REDIS: 'redis://cache:6379'
 
-      ADMIN_EMAIL: 'admin@example.com'
-      ADMIN_PASSWORD: 'd1r3ctu5'
+      ADMIN_EMAIL: 'dancarlson1969@gmail.com'
+      ADMIN_PASSWORD: 'MDR!DMaink3'
 
       # These is helpful for local developement but should probably be removed in production
       CORS_ENABLED: 'true'
